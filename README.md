@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am José Piña, a front-end developer with one year of experience, passionate about technology. In addition to my dedication to work, I enjoy music and video games, which fuel my creativity. I am committed and responsible, and I always strive to offer the best in every project.
 <!--
 **Chema13/Chema13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
